@@ -1,7 +1,8 @@
 
-# Teste Técnico Target
+# Teste Técnico Target Sistemas
+## Desenvolvedor de Sistemas Jr.
 
-Teste tecnico de desenvolvimento de aplicaòàoes em Java, para soluçao de 5 situaçoes apresentadas pela empresa.
+Teste técnico de desenvolvimento de aplicações em Java, para solução de 5 situações apresentadas pela empresa.
 
 1 - Soma de um Indice (SomaIndice)
 
